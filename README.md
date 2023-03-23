@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🔭 I’m currently working on CBN Labs
+- 🔭 I’m currently working on Westerops
 
 - 📫 How to reach me **mustafakamayy@gmail.com**
 
